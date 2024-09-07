@@ -1,0 +1,169 @@
+body{
+    background:rgb(0, 0, 0);  
+}
+#container{
+    width:1000px;
+    margin:auto;
+    
+}
+header{
+    height:30px;
+    background:rgb(0, 0, 0);
+    color: azure;
+}
+
+
+main{
+    width : 500px;
+    height:600px;
+    background:rgb(0, 0, 0);
+    float : right ;
+    justify-content:"center";
+    justify-items : "center";
+    display :"center";
+    
+}
+
+aside{
+    width :500px;
+    height : 600px;
+    background:rgb(0, 0, 0);
+    float : left;
+    
+}
+
+
+
+
+.textarea1{
+
+height:400px;
+width : 200px;
+color : white;
+background : black ;
+border: 1px solid blue;
+border-radius: 7px;
+
+
+}
+
+.best{
+    position: relative;
+    /* margin : auto; */
+    bottom : 50px;
+    padding : 3px;
+    font-size : x-large ;
+    text-align : center;
+    left: 100px;
+    top: 25px;
+    
+}
+
+
+
+th{
+    color:cyan;
+    border:2px solid blue;
+
+}
+
+td{
+    color:white;
+    border:2px solid blue;
+
+}
+
+
+table{
+
+    justify-content:center;
+    justify-items:center;
+    font-size:large;
+    border:2px solid rgb(233, 233, 245);
+    text-align:center;
+    direction:right;
+
+    background:black;
+    table-layout: fixed;
+    border-collapse: collapse;
+   
+
+
+    
+}
+
+.h_class{
+    color :blue;
+    font-size: x-large;
+    justify-content: center;
+    justify-items: center;
+    margin: 10px;
+    position: relative;
+   
+}
+
+.img_sonny{
+    width:400px  ;
+    float: right;
+    padding-top: 60px;
+
+
+}
+
+.inputa{
+    height:300px;
+    width:400px;
+    background : blue;
+}
+
+.x{
+    color:red;
+    
+    
+
+}
+.best4{
+    color: rgb(255, 255, 255);
+   
+}
+
+.linkyou{
+    color: blue;
+    position: relative;
+ float: right;
+}
+
+
+.hm{
+    position: absolute;
+    top: 930px;
+    right: 350px;
+    /* justify-content: center; */
+    table-layout: fixed;
+    border-collapse: collapse;
+
+
+   
+}
+
+
+.harakat{
+    float: right;
+
+
+}
+
+.essense{
+
+    position: relative;
+    top: 100px;
+    left: 150px;
+    
+    justify-content: center;
+    justify-items: center;
+
+}
+table tr:nth-child(odd){
+    background-color: rgb(5, 41, 82);
+}
+
